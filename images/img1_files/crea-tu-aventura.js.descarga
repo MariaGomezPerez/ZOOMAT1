@@ -1,0 +1,29 @@
+/*actualiza div*/
+function objAjax() {    
+    var xmlhttp=false;
+    try  {
+        // Creacion del objeto AJAX para navegadores no IE
+        xmlhttp=new ActiveXObject("Msxml2.XMLHTTP");    }
+    catch(e) {
+        try {
+            // Creacion del objet AJAX para IE
+           xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+       }
+       catch(E) { xmlhttp=false; }
+   }
+   if (!xmlhttp && typeof XMLHttpRequest!='undefined') { xmlhttp=new XMLHttpRequest(); }
+   return xmlhttp; 
+}
+/*esta es la funcion que hace el llamado a la pagina , esa pagina "vomita" lo que mostrara en un div*/
+function actualizar(div, pagina){    
+    ajax = objAjax();
+    ajax.open('POST', pagina,true);
+    ajax.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+    ajax.send("");
+    ajax.onreadystatechange = function() {
+        if (ajax.readyState == 4) {
+            document.getElementById(div).textContent = ajax.responseText;
+        }
+    }
+}
+/*fin actualiza div*/

@@ -1,0 +1,119 @@
+#atractivo-slider {width:990px; height: 433px; }
+#atractivo-recursos {width:970px;height: 110px;padding: 10px;margin: 0 0 10px 0; /*background: url(../img/title-gb.png) repeat;*/ background: url(../img/categoria/hash.png) repeat;}
+#atractivo-recursos-cont {width:958px;height: 98px;padding: 5px;background: #FFF;margin: 0 0 0 0;border: 1px solid #ECECEC; }
+
+#lista-recursos {width: 680px; height: 98px;outline: 0px dotted red;float: left;margin: 0 0 10px 0;}
+
+#lista-recursos ul {list-style: none; list-style-position: inside; }
+#lista-recursos ul li {
+width:136px; height: 90px; outline: 0px dotted blue; margin:4px 0 0 0px;float: left; }
+#lista-recursos ul li:hover { background: url(../img/categoria/hash.png) repeat;}
+#lista-recursos ul li img { width: 88px; height: 55px; clear: both; margin: 0 0 5px 14px;  }
+#lista-recursos ul li h2 { text-align: center; background: transparent; }
+#lista-recursos ul li h2 a { color: #383838; font-size: 14px; font-weight: bold;  }
+#lista-recursos ul li h2 a:hover { text-decoration: underline;  }	
+	
+	#recursos-clima { width: 242px; height: 98px;outline: 0px dotted green;padding: 0 0 0 20px;float: right;margin: 0 0 10px 0;border-left: 0px solid #F9F9F9; background: #F4F4F4;}
+
+#atractivo-content {width:970px; height: auto; background: url(../img/categoria/hash.png) repeat; padding: 10px;  }
+#atractivo-content #acontent { width: 100%; height: auto; background: #FFF; display: table; }
+	
+	#atractivo-content #acontent #atractivo-content-info {width:510px; padding: 0 10px; height: auto; min-height: 300px; float:left; background: #FFF; outline: 0px solid aqua;}	
+	#atractivo-content #acontent #atractivo-content-info h2 {border-bottom: 1px dotted #C4C4C4;  padding: 0 0 5px 0; margin: 20px 0 20px 0; font-size:18px; text-align: left; font-family:Arial,Helvetica,sans-serif; font-weight: bold; color: #383838; background-color: transparent; clear:both; }
+	#atractivo-content #acontent #atractivo-content-info h2 a { font-size:18px; font-weight: bold; color: #383838; }
+		
+#lugares-cercanos  {width:990px; height: 380px; margin:0; padding:0;}
+#lugares-cercanos1 {width:990px; height: 200px; margin: 0 auto; padding-top:10px; border: 0px solid #C45B00; background:  #FFF;  }
+#lugares-cercanos2 {width:990px; height: 320px; margin: 0 auto; padding-top:10px; border: 0px solid #C45B00; background:  #FFF; }
+#lugares-cercanos3 {width:990px; height: 410px; margin: 0 auto; padding-top:10px; border: 0px solid #C45B00; background:  #FFF; }
+#lugares-cercanos4 {width:990px; height: 530px; margin: 0 auto; padding-top:10px; border: 0px solid #C45B00; background:  #FFF; }
+#lugares-cercanos5 {width:990px; height: 660px; margin: 0 auto; padding-top:10px; border: 0px solid #C45B00; background:  #FFF; }
+
+.title-atractvivo { width: 960px; height: auto; display: table; margin: 0 auto; }
+.title-atractvivo h2 { border-bottom: 1px dotted #C4C4C4;  padding: 0 0 5px 0; margin: 20px 0 0 0; font-size:18px; text-align: left; font-family:Arial,Helvetica,sans-serif; font-weight: bold; color: #383838; background-color: transparent; clear:both; }
+.c-1 { width: 410px; height: 60px; float: left; }
+
+#atractivo-mapa { width:400px; height: auto; min-height: 300px; float:right; background: #F4F4F4; }
+
+#atractivo-content-como { width:400px; padding: 10px 10px; height: auto; min-height: 300px; float:right; background: #F4F4F4; outline: 0px dotted red;  }
+#atractivo-content-como p { font-size:13px; text-align: left; font-family:Arial,Helvetica,sans-serif; line-height: 17px; font-weight: normal; background-color: transparent; }
+#atractivo-content-como h2 { border-bottom: 1px dotted #C4C4C4; padding: 0 0 5px 0; font-size:18px; text-align: left; font-family:Arial,Helvetica,sans-serif; font-weight: bold; color: #383838; background-color: transparent; }
+#atractivo-content-como h3{border-bottom: 1px dotted #C4C4C4;  padding: 0 0 5px 0; margin: 20px 0 20px 0; font-size:18px; text-align: left; font-family:Arial,Helvetica,sans-serif; font-weight: bold; color: #383838; background-color: transparent; }
+#atractivo-content-como h3 a { font-size:16px;font-weight: bold; color: #383838;}
+
+	
+#atractivo-content-media { width: 100%;height:34px; display: table; padding: 4px 0 2px 0;  margin: 0 0 10px 0; float:  right; background: #DBDBDB; }
+#atractivo-content-media ul {  list-style: none; margin: 5px 0 0 0;  }
+#atractivo-content-media ul li{ width: auto; height: 24px; float: left; margin: 0 0px 0 10px; }
+#atractivo-content-media ul li { color: #666666; text-decoration: none; font-size: 12px; font-weight: bold; }
+#atractivo-content-media .tweet { width: 90px; }
+#atractivo-content-media .masuno { width: 70px;}
+
+
+#atractivo-360 { width:400px; height: auto; float:right; background: #F4F4F4; outline:0px solid red; border-bottom:0px solid #000;}
+#atractivo-360-title{width:400px; height: 30px; float:left; background: #DBDBDB; margin:0 0 10px 0; outline:0px solid black; border-bottom:0px solid #000}
+    #title-img{width:30px; height:30px; outline:0px solid black; float:left; margin: 0 0 0 130px}
+    #title-tex{width:130px; height:25px; outline:0px solid black; float:left; padding:5px 0 0 0}
+        #title-tex h4{font-size:16px; font-family:Arial,Helvetica,sans-serif; font-weight: bold; color: #666; background:transparent; text-align:center}
+#atractivo-360 ul {  list-style: none; margin: 5px 0 0 0; outline:0px solid black; height: auto}
+#atractivo-360 ul li {height: 100px; width:180px;  float: left; margin: 0 20px 20px 0px; outline:0px solid black }
+#atractivo-360 ul li h2{ color: #666; text-decoration: none; font-size: 12px; font-weight: bold; text-align:left; background: transparent }
+#atractivo-360 ul li h2 a{ color: #666; text-decoration: none; font-size: 12px; font-weight: bold; background: transparent }
+
+#atractivo-360-con{width:400px; height: 460px; float:left; background: #FFF; margin:0; outline:0px solid black; border-bottom:0px solid #000}
+
+
+#atractivo-360-sin { width:400px; height: auto; float:right; background: #F4F4F4; outline:0px solid red; border-bottom:0px solid #000; display: table; margin: 0 0 10px 0; }
+#atractivo-360-sin .slider360-sin{ width: 350px; height: 80px; margin: 6px 0 0 10px;  background: #F4F4F4; }
+#atractivo-360-sin .slider360-sin img{ float: left; margin: 5px 10px 0 10px; width: 160px; height: 71px;  }
+#atractivo-360-sin .slider360-sin h5 { background: transparent; padding: 20px 0 0 0; margin: 0 10px 0 0; }
+#atractivo-360-sin .slider360-sin h5 a { color: #00002D; }
+
+#tab2 {}
+#tab2 p { margin: 0; padding:0;}
+#tab2 ol { margin: 0px; padding: 0px; list-style: none; }
+#tab2 ol li { outline: 0px solid aqua;  width: 49%; float: left; /*height: 30px;*/ margin: 0 0 5px 1%; font-family:Arial,Helvetica,sans-serif; background-color: transparent; }
+#tab2 ol li img {float: left; margin: 0 5px 0 0; padding: 0px; }
+#tab2 ol li a {font-size: 13px; color:black; font-weight: normal; margin: 8px 0 0 0; background-color: transparent; border-bottom: 0px; line-height: 30px; }
+
+#tab1 {}
+#tab1 p { margin: 0; padding:0;}
+
+tab-container-1 {  }
+div.demolayout { width: 100%; margin: 0 0 20px 0; }
+ul.demolayout { list-style-type: none; width: 100%; float: left; background: transparent /*url(../img/yetti/pixel.gif) bottom left repeat-x*/; }
+ul.demolayout li { margin: 10px 2px 0 0; float: left; }
+ul.demolayout a { float: left; display: block; padding: 4px 8px;border: 1px solid #ccc; border-bottom: 0; color: #666; background: #eee; text-decoration: none; font-weight: bold; }
+ul.demolayout a:hover { background: #fff; }
+ul.demolayout a.active { background: #fff; padding-bottom: 5px; cursor: default; color: #666; }
+
+#agregar-aventura{ outline: 0px solid #CC0000; margin: 0px; padding: 0px; top: 0; left: 0;}
+#agregar-aventura img {margin: 0 0 0 20px;}
+
+/* STYLE simple.php */
+
+#simple { width: 100%; height: auto;  display: table; background: #F4F4F4;  }
+#simple .s-cont { width: 880px; height: auto; display: table; padding: 20px 30px 20px 30px; margin: 25px auto; background: #FFF; clear: both;  }
+#simple .s-cont #info-simple { width: 100%; height: auto; clear: both; padding: 10px 0 0 0;}
+#simple .s-cont #info-simple h3 { color: #383838;font-size: 18px; font-weight: bold; margin: 10px 0 10px 0; padding: 10px 0 0 0; }
+#simple .s-cont #info-simple p { font-size: 14px; }
+
+#simple .s-cont #info-simple #actividades-simple { list-style: none; margin: 0px; padding: 0px; display: table; }
+#simple .s-cont #info-simple #actividades-simple li { width: auto; height: 30px; outline: 1px solid #CCC; float: left; margin: 10px 10px 10px 0; padding: 5px 10px; background: #DBDBDB; line-height: 30px;color: #000; }
+#simple .s-cont #info-simple #actividades-simple li img { float: left; margin: 0 5px 0 0; }
+#simple .s-cont #info-simple #actividades-simple li a { line-height: 30px; color: #000;  }
+#simple .s-cont #info-simple #actividades-simple li a:hover { text-decoration: underline;  }
+
+#simple .s-cont #info-simple .info-videos { clear: both; width: 100%; height: auto; display: table; outline: 0px dotted aqua; margin: 10px 0 0 0;Ê}
+
+#simple .s-cont #simple-muni { width: 380px;height:34px; display: table; padding: 4px 10px 2px 10px;  margin: 0 0 10px 0; float:  left; background: #DBDBDB; }
+#simple .s-cont #simple-muni h2{ background: transparent; color: #3A3E3F; font-weight: bold; margin: 0 0 0 0; line-height: 34px; font-size: 16px; }
+#simple .s-cont #simple-muni h2 span { font-size: 16px; margin: 0 0 0 10px; }
+
+#simple .s-cont #simple-media { width: 380px;height:34px; display: table; padding: 4px 0 2px 0;  margin: 0 0 10px 0; float:  right; background: #DBDBDB;  }
+#simple .s-cont #simple-media ul {  list-style: none; margin: 5px 0 0 0;  }
+#simple .s-cont #simple-media ul li{ width: auto; height: 24px; float: left; margin: 0 0px 0 10px; }
+#simple .s-cont #simple-media ul li { color: #666666; text-decoration: none; font-size: 12px; font-weight: bold; }
+#simple .s-cont #simple-media .tweet { width: 90px; }
+#simple .s-cont #simple-media .masuno { width: 70px;}
+

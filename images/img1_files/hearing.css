@@ -1,0 +1,55 @@
+/** Menu **/
+.dropList {height:80px;width: 980px; padding: 5px 0 5px 0; background:transparent; font-size:13px;  margin: 0 auto; position:relative; outline: 0px solid aqua; z-index: 1001;}
+.dropList ul {padding:0; margin:0; list-style:none;}
+.dropList ul li div { z-index: 1001; position:absolute; left:-9999px; top:-9999px; background:#FAFAFA; ;border-top: 0px solid #965706;border-right: 0px solid #CCC;border-bottom: 0px solid #CCC; border-left: 0px solid #CCC; padding: 0 1px 1px 1px;}
+.dropList ul li div ul {width:180px; float:left;}
+.dropList ul li {float:left; outline: 0px solid #993366;}
+.dropList ul li a {font-size: 14px;color:#3A3E3F; font-weight: bold; height: 80px;   padding:0 33px 0 33px; float:left; display:block; text-decoration:none;  }
+
+.dropList ul li a img { margin: 13px 0 5px 0; }
+.dropList ul li a br { height: 10px; background: transparent;}
+
+.dropList ul li a.jaja img { margin: 13px 0 5px 20px;}
+.dropList ul li a.jaja1 img { margin: 13px 0 5px 10px;}
+
+.dropList ul li a.fly { }
+.dropList ul ul li a {padding:0; width:180px; text-indent:10px; line-height:20px; font-weight:normal;}
+.dropList ul ul li h4 {padding:8px 0 4px 0; margin:0;}
+.dropList ul ul li h4 a {padding:0; width:180px; text-indent:10px; line-height:20px; font-weight:bold; font-size:14px;}
+
+.dropList ul li a:hover {  background: #FFF; }
+.dropList ul li:hover > a { background: #678A2E; text-decoration:none; color: #FFF;}
+
+
+.dropList ul .aventurate:hover {position:relative; z-index: 1;}
+    .dropList ul .aventurate:hover div {left:0;  top:80px; width:464px; height: 207px; z-index: 1001;}
+
+         dropList ul .aventurate:hover {position:relative;}
+            .dropList ul .aventurate:hover div {
+                                                left:0; top:80px;
+                                                width:210px; height: auto;
+                                                display: table;
+                                                background: none repeat scroll 0 0 #FFF;
+                                                padding: 15px 15px 15px 15px;
+                                                border-color: #DEDEDE;
+                                                border-radius: 0px 0px 4px 4px;
+                                                box-shadow: 0 4px 4px 4px #DFDFDF;
+                                                z-index: 1001;
+                                                }
+
+                	.dropList ul .aventurate:hover div  ul { width: 100%; height: auto; display: table; margin: 0 auto; padding: 0px;   }
+                	.dropList ul .aventurate:hover div  ul li{ width: 95%; height: 20px;  padding: 0 0 5px 5px; margin: 0 0 2px 0; border-bottom: 1px solid #E5E5E5; background: url(../img/vinetas/vineta-sola.png) transparent no-repeat 0 35%;  }
+                	.dropList ul .aventurate:hover div  ul li:hover{   background: url(../img/vinetas/vineta-sola.png) no-repeat 0 35% #E6E6E6;  }
+                	.dropList ul .aventurate:hover div  ul li:hover a { background: #E6E6E6; text-decoration: none; }
+                	.dropList ul .aventurate:hover div  ul li a{ width: 98%; margin: 0 0 0 2%; height: auto; color: #4A4A4A; text-indent: 5px;  }
+                	.dropList ul .aventurate:hover div  ul li a:hover { background: #E6E6E6; text-decoration: none; width: 98%; margin: 0 0 0 2%; height: auto; color: #4A4A4A; text-indent: 5px; }
+
+.dropList ul :hover div ul ul {position:absolute; left:-9999px; top:-9999px;}
+.dropList ul :hover div ul .fly:hover {position:relative;}
+.dropList ul :hover div ul .fly:hover ul {left:170px; top:-7px; background:#fff; border:1px solid #aaa;  padding:6px 0;}
+.dropList ul :hover div ul .fly:hover ul ul {left:-9999px; top:-9999px;}
+.dropList ul :hover div ul .fly:hover ul .fly:hover ul {left:170px; top:-7px; background:#fff; border:1px solid #aaa;}
+.dropList table {border-collapse:collapse; width:0; height:0; margin-bottom:-1px;}
+
+.dropList .active {background: #678A2E; text-decoration:none; color: #FFF; }
+.dropList .active a{ color: #FFF; }

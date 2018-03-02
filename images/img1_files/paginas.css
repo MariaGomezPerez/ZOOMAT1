@@ -1,0 +1,788 @@
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-40389899-1', 'turismochiapas.gob.mx');
+  ga('send', 'pageview');
+
+</script>
+
+   		<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+		<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es">
+			<head>
+				<title>Turismo en Chiapas - Inicio</title>
+				<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+				<meta name="robots" content="index,follow" />
+				<meta name="keywords" content=" "/>
+				<meta name="description" content="" />
+				<meta name="rating" content="general" />
+				<meta name="revisit-after" content="1 days" />
+				<meta name="language" content="es" />
+				<meta name="distribution" content="global" />
+				<meta name="resource-type" content="Document" />
+				<meta name="author" content="Gobierno de Chiapas - Dirección de Internet" />
+				<meta name="copyright" content="Gobierno de Chiapas" />
+				<meta name="allow-search" content="yes" />
+				<meta name="audience" content="all" />
+				<link rel="stylesheet" href="http://www.turismochiapas.gob.mx/sectur/css/global.css" type="text/css" />
+				<link rel="stylesheet" href="http://www.turismochiapas.gob.mx/sectur/css/hearing.css" type="text/css" />
+				
+				 <!-- <link rel='stylesheet' href='css/style-back.css' type='text/css' media='all' /> -->
+				<script type="text/javascript" src="http://www.turismochiapas.gob.mx/sectur/js/jquery.min.js"></script>
+				<script type="text/javascript" src="http://www.turismochiapas.gob.mx/sectur/js/styleswitch.js"></script>
+                <script type='text/javascript' src="http://www.turismochiapas.gob.mx/sectur/js/crea-tu-aventura.js"></script>
+				
+				<link rel='stylesheet' href='http://www.turismochiapas.gob.mx/sectur/css/portada.css' type='text/css' />			</head>
+			<body>
+			
+			<!-- Lightning Bolt Begins --> 
+				<script type="text/javascript"> 
+					 var lbTrans = '[TRANSACTION ID]'; 
+					 var lbValue = '[TRANSACTION VALUE]'; 
+					 var lbData = '[Attribute/Value Pairs for Custom Data]'; 
+					 var lb_rn = new String(Math.random()); var lb_rns = lb_rn.substring(2, 12); 
+					 var boltProtocol = ('https:' == document.location.protocol) ? 'https://' : 'http://'; 
+					  try { 
+					  		var newScript = document.createElement('script'); 
+					  		var scriptElement = document.getElementsByTagName('script')[0]; 
+					  		newScript.type = 'text/javascript'; 
+					  		newScript.id = 'lightning_bolt_' + lb_rns; 
+					  		newScript.src = boltProtocol + 'b3.mookie1.com/2/LB/' + lb_rns + '@x96?'; 
+					  		scriptElement.parentNode.insertBefore(newScript, scriptElement); 
+					  		scriptElement = null; newScript = null; 
+					   } catch (e) { } 
+				</script> 
+			<!-- Lightning Bolt Ends --> 
+			
+				<div id="pagewidth">
+
+							
+			<div id="header">
+				<div id="h-element">
+					 <div id="he-1">
+                        
+                     </div>
+                     <div id="he-3"> 
+                        <div class="he3-consult"> 
+                        	  <!--
+                        	<h3> <a href='http://www.turismochiapas.gob.mx/sectur/crea-tu-aventura/n0e5f9e4v9r22u5suq732s42dgg5n0h2'>Consultar mi aventura</a></h3><div id='count'>0</div> 
+                            ! --> 
+                        </div>
+                        <div class="he3-social"> 
+                        	<h2>S&iacute;guenos: </h2> 
+                     		 <ul>
+                       			 <li><a href="https://www.facebook.com/SecturChiapas" target="_blank"><img src="http://www.turismochiapas.gob.mx/sectur/img/footer/icon-facebook.png" alt="Facebook" /></a> </li>
+                        		 <li><a href="https://twitter.com/Sectur_Chiapas" target="_blank"><img src="http://www.turismochiapas.gob.mx/sectur/img/footer/icon-twitter.png" alt="Twitter" /></a> </li>
+                        		 <li><a href="http://www.youtube.com/channel/UChEXDaS9eC2M-T39suwQdaQ/videos" target="_blank"><img src="http://www.turismochiapas.gob.mx/sectur/img/footer/icon-youtube.png" alt="Enlace externo" /></a> </li>
+                        		<li><a href="http://blogturismochiapas.tumblr.com/" target="_blank"><img src="http://www.turismochiapas.gob.mx/sectur/img/footer/icon-rss.png" alt="rss" /></a> </li>
+                    		 </ul>
+                        </div>
+                     </div>                     
+                  	 <div id="he-2">
+                        <div class="he2-1"> <img src="http://www.turismochiapas.gob.mx/sectur/img/header/tienes-alguna-pregunta.png" alt="Lada 01 800" /> </div>
+                        <div class="he2-2"> <img src="http://www.turismochiapas.gob.mx/sectur/img/header/lada.png" alt="Lada 01 800" /> </div>
+                        <div class="he2-3"> 
+                                <div id="db-1">                	
+                            		<form action="http://www.turismochiapas.gob.mx/sectur/busquedas" method="POST" >  
+                                		<input type="text" id="dato_buscado" name="q" size="30" />                        
+                                		<input type="submit" id="" name="" value="" style="display:none;" />                        
+                            		</form> 
+                       		   </div>
+                       		   <div id="db-2"></div>  
+                            </div>    
+
+                     </div>					
+				</div>
+							<div id="h-cont">
+				
+                <div class="dropList">
+                    <ul class="nav">
+                    	<li class='active conf'><a href='http://www.turismochiapas.gob.mx/sectur/'><img src='http://www.turismochiapas.gob.mx/sectur//img/menu/icon-inicio.png' /><br />  Inicio    </a></li>                    	
+                    	<li class='aventurate level0 nav-1 level-top first last'><a class='aventurate fly level-top jaja' href='http://www.turismochiapas.gob.mx/sectur/arqueologia'><img src='http://www.turismochiapas.gob.mx/sectur/img/menu/icon-aventurate.png' /><br />Avent&uacute;rate<!--[if gte IE 7]><!--></a><!--<![endif]-->    	                   <!--[if lte IE 6]><table><tr><td><![endif]-->
+		  	       	           <div>
+                                   
+    								<ul>
+    									<li><a href="http://www.turismochiapas.gob.mx/sectur/arqueologia"> Arqueolog&iacute;a</a> </li>
+    									<li><a href="http://www.turismochiapas.gob.mx/sectur/ciudades-coloniales"> Ciudades Coloniales</a> </li>
+    									<li><a href="http://www.turismochiapas.gob.mx/sectur/bellezas-naturales-"> Bellezas Naturales</a> </li>
+    									<li><a href="http://www.turismochiapas.gob.mx/sectur/sol-y-playa"> Sol y Playa</a> </li>
+    									<li><a href="http://www.turismochiapas.gob.mx/sectur/centros-tursticos-y-ecotursticos-"> Ecoturismo</a> </li>
+    									<li><a href="http://www.turismochiapas.gob.mx/sectur/fincas-cafetaleras"> Fincas Cafetaleras</a> </li>
+    									<li><a href="http://www.turismochiapas.gob.mx/sectur/turismo-de-reuniones"> Turismo de Reuniones</a> </li>
+                                       </ul>
+                                      
+                               </div>
+                            <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+                        </li>
+                        
+                        <li class='aventurate store'><a class='aventurate fly' href='http://www.turismochiapas.gob.mx/sectur/tuxtla-gutirrez'><img src='http://www.turismochiapas.gob.mx/sectur/img/menu/icon-conoce.png' /> <br /> Conoce<!--[if gte IE 7]><!--></a><!--<![endif]-->                            <!--[if lte IE 6]><table><tr><td><![endif]-->
+                                <div>
+                                    
+        								<ul>
+        									<li><a href="http://www.turismochiapas.gob.mx/sectur/tuxtla-gutirrez"> Tuxtla Guti&eacute;rrez </a> </li>
+        									<li><a href="http://www.turismochiapas.gob.mx/sectur/chiapa-de-corzo"> Chiapa de Corzo </a> </li>
+        									<li><a href="http://www.turismochiapas.gob.mx/sectur/san-cristbal-de-las-casas-"> San Crist&oacute;bal de las Casas  </a> </li>
+        									<li><a href="http://www.turismochiapas.gob.mx/sectur/comitn-de-domnguez"> Comit&aacute;n de Domínguez </a> </li>
+        									<li><a href="http://www.turismochiapas.gob.mx/sectur/palenque"> Palenque </a> </li>
+        									<li><a href="http://www.turismochiapas.gob.mx/sectur/tonal"> Tonal&aacute; </a> </li>
+        									<li><a href="http://www.turismochiapas.gob.mx/sectur/tapachula"> Tapachula </a> </li>
+                                          </ul>
+                                    
+                                </div>
+                            <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+                        </li>
+                        
+                        <li class='aventurate galery'><a class='aventurate fly jaja' href='http://www.turismochiapas.gob.mx/sectur/caminando'><img src='http://www.turismochiapas.gob.mx/sectur/img/menu/icon-vive-chiapas.png' /> <br />Vive Chiapas<!--[if gte IE 7]><!--></a><!--<![endif]-->                            <!--[if lte IE 6]><table><tr><td><![endif]-->
+                                <div>
+         							
+        								<ul>
+        									<li><a href="http://www.turismochiapas.gob.mx/sectur/caminando"> Caminando </a> </li>
+        									<li><a href="http://www.turismochiapas.gob.mx/sectur/comiendo"> Comiendo </a> </li>
+        									<li><a href="http://www.turismochiapas.gob.mx/sectur/bailando"> Bailando  </a> </li>
+        									<li><a href="http://www.turismochiapas.gob.mx/sectur/explorando"> Explorando </a> </li>
+        									<li><a href="http://www.turismochiapas.gob.mx/sectur/comprando-"> Comprando </a> </li>
+        									<li><a href="http://www.turismochiapas.gob.mx/sectur/conociendo-"> Conociendo </a> </li>
+                                        </ul>
+                                   
+                                </div>                                      		  	       	
+                            <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+                        </li>
+                        
+                        <li class='aventurate contact'><a class='aventurate fly jaja1' href='http://www.turismochiapas.gob.mx/sectur/gastronomia'><img src='http://www.turismochiapas.gob.mx/sectur/img/menu/icon-descubre.png' /> <br />Descubre<!--[if gte IE 7]><!--></a><!--<![endif]-->    	                   <!--[if lte IE 6]><table><tr><td><![endif]-->
+                                <div>
+          						
+        								<ul>
+        									<li><a href="http://www.turismochiapas.gob.mx/sectur/gastronomia"> Gastronom&iacute;a </a> </li>
+        									<li><a href="http://www.turismochiapas.gob.mx/sectur/puerto-chiapas"> Puerto Chiapas </a> </li>
+        									<li><a href="http://www.turismochiapas.gob.mx/sectur/marca-chiapas"> Marca Chiapas  </a> </li>
+        									<li><a href="http://www.turismochiapas.gob.mx/sectur/pueblos-magicos"> Pueblos M&aacute;gicos  </a> </li>
+        									<li><a href="http://www.turismochiapas.gob.mx/sectur/tesoros-de-chiapas"> Tesoros de Chiapas  </a> </li>
+        									<li><a href="http://www.turismochiapas.gob.mx/sectur/territorio-jaguar"> Territorio Jaguar  </a> </li>
+        									<li><a href="http://www.turismochiapas.gob.mx/sectur/haciendas-de-chiapas"> Haciendas de chiapas  </a> </li>
+                                          </ul>
+                                    
+                                </div>		                                  
+                           <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+                        </li>
+                        
+                        <li class='aventurate diviermenu'><a class='aventurate fly jaja1' href='http://www.turismochiapas.gob.mx/sectur/divirtete/ferias-tradicionales-'><img src='http://www.turismochiapas.gob.mx/sectur/img/menu/icon-diviertete.png' /> <br />Divi&eacute;rtete<!--[if gte IE 7]><!--></a><!--<![endif]-->    	                   <!--[if lte IE 6]><table><tr><td><![endif]-->
+                                <div>
+          							
+        								<ul>
+        									<li><a href="http://www.turismochiapas.gob.mx/sectur/divirtete/ferias-tradicionales-"> Ferias tradicionales  </a> </li>
+        									<li><a href="http://www.turismochiapas.gob.mx/sectur/divirtete/festivales-culturales-"> Festivales Culturales  </a> </li>
+        									<li><a href="http://www.turismochiapas.gob.mx/sectur/divirtete/exposiciones"> Exposiciones  </a> </li>
+        									<li><a href="http://www.turismochiapas.gob.mx/sectur/divirtete/espectculos"> Espect&aacute;culos  </a> </li>
+        									<li><a href="http://www.turismochiapas.gob.mx/sectur/divirtete/eventos-deportivos"> Eventos deportivos  </a> </li>
+                                          </ul>
+                                    
+                                </div>
+                            <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+                        </li>
+                        
+                        <li class='aventurate fly jaja1'><a href='http://www.turismochiapas.gob.mx/sectur/'><img src='http://www.turismochiapas.gob.mx/sectur/img/menu/icon-top-10.png' /> <br />Transparencia<!--[if gte IE 7]><!--></a><!--<![endif]-->                        	 <!--[if lte IE 6]><table><tr><td><![endif]-->
+                                <div>
+          							
+        								<ul>
+        									<li><a href="http://www.sistemas.chiapas.gob.mx/PortalTransparencia/fraccionesportal/indexdependencia/?iddependencia=13" target="_blank"> Portal de Transparencia </a> </li>
+        									<li><a href="http://www.sistemas.chiapas.gob.mx/PortalTransparencia/fraccionesportal/indexdependencia/?iddependencia=105" target="_blank"> Portal de Transparencia FIDETUR </a> </li>	                                   </ul>
+                                    
+                                </div>
+                            <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+                        </li>
+                                                
+                    </ul>
+                </div>
+
+			</div>
+		                
+			</div>
+		<div id='wrapper' class='clearfix'>
+<div id='maincol'>
+<div id='content'>
+<div id='global'>
+<script>
+		$(function() {
+
+			$('#allinone_bannerRotator_sidebar1').allinone_bannerRotator({
+				skin: 'classic',
+				defaultEffect: 'fade',
+				width: 240,
+				height: 370,
+				numberOfStripes:1,
+				numberOfRows:1,
+				numberOfColumns:1,
+				showOnInitNavArrows:false,			
+				showAllControllers:true,
+				showBottomNav:false, 
+				autoPlay: 7
+			});		
+			
+			
+		});
+</script>
+	<script>
+		$(function() {
+
+			$('#allinone_bannerRotator_sidebar2').allinone_bannerRotator({
+				skin: 'classic',
+				defaultEffect: 'fade',
+				width: 240,
+				height: 370,
+				numberOfStripes:1,
+				numberOfRows:1,
+				numberOfColumns:1,
+				showOnInitNavArrows:false,			
+				showAllControllers:true,
+				showBottomNav:false,
+				autoPlay: 9
+			});		
+			
+			
+		});
+	</script>
+	<script>
+		$(function() {
+
+			$('#allinone_bannerRotator_sidebar3').allinone_bannerRotator({
+				skin: 'classic',
+				defaultEffect: 'fade',
+				width: 240,
+				height: 370,
+				numberOfStripes:1,
+				numberOfRows:1,
+				numberOfColumns:1,
+				showOnInitNavArrows:false,			
+				showAllControllers:true,
+				showBottomNav:false,
+				autoPlay: 7
+			});		
+			
+			
+		});
+	</script>
+	<script>
+		$(function() {
+
+			$('#allinone_bannerRotator_sidebar4').allinone_bannerRotator({
+				skin: 'classic',
+				defaultEffect: 'fade',
+				width: 240,
+				height: 370,
+				numberOfStripes:1,
+				numberOfRows:1,
+				numberOfColumns:1,
+				showOnInitNavArrows:false,			
+				showAllControllers:true,
+				showBottomNav:false,
+				autoPlay: 9
+			});		
+			
+			
+		});
+	</script>
+
+
+
+
+
+<link href="css/allinone_bannerRotator.css" rel="stylesheet" type="text/css">
+<link href='http://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css'>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+<script src="js/jquery-ui-1.8.16.custom.min.js"></script>
+<script src="js/jquery.ui.touch-punch.min.js" type="text/javascript"></script>
+<script src="js/allinone_bannerRotator.js" type="text/javascript" charset="utf-8"></script>
+
+
+
+
+
+
+    <title>SecretarÃ­a de Turismo</title>
+
+	<div id="feedback_button">
+    	<a href="feedback/" title=""></a>
+    </div>	
+
+<div id="sliders">
+    <div class="s1" id="s1">
+        <div id="allinone_bannerRotator_sidebar1" style="display:none;"> 
+        	<img src="media/portada/promo/licitacion2018.jpg" alt="" data-text-id="#allinone_bannerRotator_photoText1109" /> 
+        	
+        	<img src="media/portada/promo/banner_estadisticas.jpg" alt="" data-text-id="#allinone_bannerRotator_photoText1108" /> 
+        	<img src="media/portada/promo/bannerinfo.jpg" alt="" data-text-id="#allinone_bannerRotator_photoText1107" /> 
+        	
+        	<img src="media/portada/promo/programaespecialdeturismo_sectur.jpg" alt="" data-text-id="#allinone_bannerRotator_photoText1106" /> 
+        	
+        	<img src="media/portada/promo/licitacion_b.jpg" alt="" data-text-id="#allinone_bannerRotator_photoText1105" />   
+        	
+        	<img src="media/portada/promo/banner2017.jpg" alt="" data-text-id="#allinone_bannerRotator_photoText1111" /> 
+        	
+        	<img src="media/portada/promo/CC-140.jpg" alt="" data-text-id="#allinone_bannerRotator_photoText1109" /> 
+        	
+
+        	     	
+            <img src="media/portada/promo/comparecencia2016.jpg" alt="" data-text-id="#allinone_bannerRotator_photoText1104" />     	
+        	<img src="media/portada/promo/ley.jpg" alt="" data-text-id="#allinone_bannerRotator_photoText1103" /> 
+        	      	
+        	<img src="media/portada/promo/Banner1.jpg" alt="" data-text-id="#allinone_bannerRotator_photoText70" /> 
+	    	
+        	
+        	
+        
+        	
+	         <!-- 
+	        <img src="media/portada/promo/palenque_pueblomagico.jpg" alt="" data-text-id="#allinone_bannerRotator_photoText63" /> 
+	       
+	    	<img src="media/portada/aventurate/aventurate-01.jpg" alt="" data-text-id="#allinone_bannerRotator_photoText1" /> 
+	    	<img src="media/portada/aventurate/aventurate-02.jpg" alt="" data-text-id="#allinone_bannerRotator_photoText2" /> 
+	    	<img src="media/portada/aventurate/aventurate-03.jpg" alt="" data-text-id="#allinone_bannerRotator_photoText3" /> 
+	    	/> -->
+	    	
+	    	<div id="allinone_bannerRotator_photoText1107" class="allinone_bannerRotator_texts">
+		    	<div class="allinone_bannerRotator_text_line textElement214_classic" data-initial-left="0" data-initial-top="307" data-final-left="0" data-final-top="307" data-duration="0.5" data-fade-start="20" data-delay="0"><a href="http://www.turismochiapas.gob.mx/institucional/2018-licitaciones/" target="_blank">Licitaciones 2018
+		    	</a></div>
+		    	<div class="allinone_bannerRotator_text_line textElement224_classic" data-initial-left="0" data-initial-top="340" data-final-left="0" data-final-top="340" data-duration="0.5" data-fade-start="20" data-delay="0.3"><a href="http://www.turismochiapas.gob.mx/institucional/2018-licitaciones/" target="_blank">Invitaci&oacute;n abierta</a></div>
+			</div>
+			
+	    	
+	    	<div id="allinone_bannerRotator_photoText1107" class="allinone_bannerRotator_texts">
+		    	<div class="allinone_bannerRotator_text_line textElement214_classic" data-initial-left="0" data-initial-top="307" data-final-left="0" data-final-top="307" data-duration="0.5" data-fade-start="20" data-delay="0"><a href="http://www.turismochiapas.gob.mx/institucional/infografias/" target="_blank">Consulta
+		    	</a></div>
+		    	<div class="allinone_bannerRotator_text_line textElement224_classic" data-initial-left="0" data-initial-top="340" data-final-left="0" data-final-top="340" data-duration="0.5" data-fade-start="20" data-delay="0.3"><a href="http://www.turismochiapas.gob.mx/institucional/infografias/" target="_blank">la informaci&oacute;n</a></div>
+			</div>
+	    	
+	    	<div id="allinone_bannerRotator_photoText1108" class="allinone_bannerRotator_texts">
+		    	<div class="allinone_bannerRotator_text_line textElement214_classic" data-initial-left="0" data-initial-top="307" data-final-left="0" data-final-top="307" data-duration="0.5" data-fade-start="20" data-delay="0"><a href="
+http://www.turismochiapas.gob.mx/institucional/2017-estadisticas/" target="_blank">Consulta
+		    	</a></div>
+		    	<div class="allinone_bannerRotator_text_line textElement224_classic" data-initial-left="0" data-initial-top="340" data-final-left="0" data-final-top="340" data-duration="0.5" data-fade-start="20" data-delay="0.3"><a href="
+http://www.turismochiapas.gob.mx/institucional/2017-estadisticas/" target="_blank">Infograf&iacute;as de Estad&iacute;sticas 2017</a></div>
+			</div>
+			
+	    	<div id="allinone_bannerRotator_photoText1106" class="allinone_bannerRotator_texts">
+		    	<div class="allinone_bannerRotator_text_line textElement214_classic" data-initial-left="0" data-initial-top="307" data-final-left="0" data-final-top="307" data-duration="0.5" data-fade-start="20" data-delay="0"><a href="https://goo.gl/QPHPko" target="_blank">Programa Especial
+		    	</a></div>
+		    	<div class="allinone_bannerRotator_text_line textElement224_classic" data-initial-left="0" data-initial-top="340" data-final-left="0" data-final-top="340" data-duration="0.5" data-fade-start="20" data-delay="0.3"><a href="https://goo.gl/QPHPkof" target="_blank">de Turismo</a></div>
+			</div>
+	    	
+	    	<div id="allinone_bannerRotator_photoText1105" class="allinone_bannerRotator_texts">
+		    	<div class="allinone_bannerRotator_text_line textElement214_classic" data-initial-left="0" data-initial-top="307" data-final-left="0" data-final-top="307" data-duration="0.5" data-fade-start="20" data-delay="0"><a href="http://www.turismochiapas.gob.mx/institucional/2017-licitaciones/" target="_blank">CONVOCATORIA</a></div>
+		    	<div class="allinone_bannerRotator_text_line textElement224_classic" data-initial-left="0" data-initial-top="340" data-final-left="0" data-final-top="340" data-duration="0.5" data-fade-start="20" data-delay="0.3"><a href="http://www.turismochiapas.gob.mx/institucional/2017-licitaciones/" target="_blank">LICITACIONES 2017</a></div>
+			</div>
+			
+	    	<div id="allinone_bannerRotator_photoText1111" class="allinone_bannerRotator_texts">
+		    	<div class="allinone_bannerRotator_text_line textElement214_classic" data-initial-left="0" data-initial-top="307" data-final-left="0" data-final-top="307" data-duration="0.5" data-fade-start="20" data-delay="0"><a href="https://chiapas.bytediscover.info" target="_blank">Crea tu viaje</a></div>
+		    	<div class="allinone_bannerRotator_text_line textElement224_classic" data-initial-left="0" data-initial-top="340" data-final-left="0" data-final-top="340" data-duration="0.5" data-fade-start="20" data-delay="0.3"><a href="https://chiapas.bytediscover.info" target="_blank">Aqu&iacute;</a></div>
+			</div>
+			
+			
+	    				
+			
+			
+	    	<div id="allinone_bannerRotator_photoText1109" class="allinone_bannerRotator_texts">
+		    	<div class="allinone_bannerRotator_text_line textElement214_classic" data-initial-left="0" data-initial-top="307" data-final-left="0" data-final-top="307" data-duration="0.5" data-fade-start="20" data-delay="0"><a href="http://www.fpchiapas.gob.mx/sis_leyes/archivos/Estatal/Codigos/Codigo%20de%20Coducta%20de%20los%20Servicios%20Publicos%20del%20Gobierno%20del%20Estado%20de%20Chiapas..pdf" target="_blank">CODIGO DE CONDUCTA</a></div>
+		    	<div class="allinone_bannerRotator_text_line textElement224_classic" data-initial-left="0" data-initial-top="340" data-final-left="0" data-final-top="340" data-duration="0.5" data-fade-start="20" data-delay="0.3"><a href="http://www.fpchiapas.gob.mx/sis_leyes/archivos/Estatal/Codigos/Codigo%20de%20Coducta%20de%20los%20Servicios%20Publicos%20del%20Gobierno%20del%20Estado%20de%20Chiapas..pdf" target="_blank">DE LOS SERVIDORES PUBLICOS</a></div>
+			</div>
+			
+	    
+	    	
+			
+	    	
+
+<div id="allinone_bannerRotator_photoText1104" class="allinone_bannerRotator_texts">
+		    	<div class="allinone_bannerRotator_text_line textElement214_classic" data-initial-left="0" data-initial-top="307" data-final-left="0" data-final-top="307" data-duration="0.5" data-fade-start="20" data-delay="0"><a href="http://www.turismochiapas.gob.mx/sectur/descargables/comparecencia/2016.pdf" target="_blank">COMPARECENCIA</a></div>
+		    	<div class="allinone_bannerRotator_text_line textElement224_classic" data-initial-left="0" data-initial-top="340" data-final-left="0" data-final-top="340" data-duration="0.5" data-fade-start="20" data-delay="0.3"><a href="http://www.turismochiapas.gob.mx/sectur/descargables/comparecencia/2016.pdf" target="_blank">2016</a></div>
+			</div>
+	    	 
+	    	 <div id="allinone_bannerRotator_photoText70" class="allinone_bannerRotator_texts">
+		    	<div class="allinone_bannerRotator_text_line textElement214_classic" data-initial-left="0" data-initial-top="307" data-final-left="0" data-final-top="307" data-duration="0.5" data-fade-start="20" data-delay="0"><a href="http://www.turismochiapas.gob.mx/sectur/descargables/libro/Chiapas,_viaje_culinario.pdf" target="_blank">Libro Chiapas,</a></div>
+		    	<div class="allinone_bannerRotator_text_line textElement224_classic" data-initial-left="0" data-initial-top="340" data-final-left="0" data-final-top="340" data-duration="0.5" data-fade-start="20" data-delay="0.3"><a href="http://www.turismochiapas.gob.mx/sectur/descargables/libro/Chiapas,_viaje_culinario.pdf" target="_blank">viaje culinario</a></div>
+			</div>
+
+	    	
+	    	 <div id="allinone_bannerRotator_photoText1103" class="allinone_bannerRotator_texts">
+		    	<div class="allinone_bannerRotator_text_line textElement214_classic" data-initial-left="0" data-initial-top="307" data-final-left="0" data-final-top="307" data-duration="0.5" data-fade-start="20" data-delay="0"><a href="http://www.turismochiapas.gob.mx/sectur/descargables/documentos/LEY_TURISMO.pdf" target="_blank">Ley de</a></div>
+		    	<div class="allinone_bannerRotator_text_line textElement224_classic" data-initial-left="0" data-initial-top="340" data-final-left="0" data-final-top="340" data-duration="0.5" data-fade-start="20" data-delay="0.3"><a href="http://www.turismochiapas.gob.mx/sectur/descargables/documentos/LEY_TURISMO.pdf" target="_blank">Turismo</a></div>
+			</div>
+	    	 
+	    	 <div id="allinone_bannerRotator_photoText70" class="allinone_bannerRotator_texts">
+		    	<div class="allinone_bannerRotator_text_line textElement214_classic" data-initial-left="0" data-initial-top="307" data-final-left="0" data-final-top="307" data-duration="0.5" data-fade-start="20" data-delay="0"><a href="http://www.turismochiapas.gob.mx/sectur/descargables/libro/Chiapas,_viaje_culinario.pdf" target="_blank">Libro Chiapas,</a></div>
+		    	<div class="allinone_bannerRotator_text_line textElement224_classic" data-initial-left="0" data-initial-top="340" data-final-left="0" data-final-top="340" data-duration="0.5" data-fade-start="20" data-delay="0.3"><a href="http://www.turismochiapas.gob.mx/sectur/descargables/libro/Chiapas,_viaje_culinario.pdf" target="_blank">viaje culinario</a></div>
+			</div>
+			
+	    	
+			
+			
+	   
+			
+			
+			
+			<!-- 
+			<div id="allinone_bannerRotator_photoText63" class="allinone_bannerRotator_texts">
+		    	<div class="allinone_bannerRotator_text_line textElement213_classic" data-initial-left="0"  data-initial-top="307" data-final-left="0" data-final-top="307" data-duration="0.5" data-fade-start="20" data-delay="0"><a href="http://blogturismochiapas.tumblr.com/post/130061449549/palenque-es-declarado-pueblo-m%C3%A1gico" target="_blank">Declaraci&oacute;n </a></div>
+		    	<div class="allinone_bannerRotator_text_line textElement223_classic" data-initial-left="0" data-initial-top="340" data-final-left="0" data-final-top="340" data-duration="0.5" data-fade-start="20" data-delay="0.3"><a href="http://blogturismochiapas.tumblr.com/post/130061449549/palenque-es-declarado-pueblo-m%C3%A1gico" target="_blank">Pueblo M&aacute;gico de Palenque</a></div>
+			</div>
+			
+	    	
+	    	
+	    	
+	    	<div id="allinone_bannerRotator_photoText1" class="allinone_bannerRotator_texts">
+		    	<div class="allinone_bannerRotator_text_line textElement21_classic" data-initial-left="0" data-initial-top="307" data-final-left="0" data-final-top="307" data-duration="0.5" data-fade-start="20" data-delay="0"><a href="el-chorreadero">Avent&uacute;rate</a> </div>
+		    	<div class="allinone_bannerRotator_text_line textElement22_classic" data-initial-left="0" data-initial-top="340" data-final-left="0" data-final-top="340" data-duration="0.5" data-fade-start="20" data-delay="0.3"><a href="el-chorreadero">En las bellezas naturales</a> </div>
+			</div>
+			<div id="allinone_bannerRotator_photoText2" class="allinone_bannerRotator_texts">
+		    	<div class="allinone_bannerRotator_text_line textElement21_classic" data-initial-left="0" data-initial-top="307" data-final-left="0" data-final-top="307" data-duration="0.5" data-fade-start="20" data-delay="0"><a href="zonas-arqueolgicas-de-palenque-">Avent&uacute;rate</a> </div>
+		    	<div class="allinone_bannerRotator_text_line textElement22_classic" data-initial-left="0" data-initial-top="340" data-final-left="0" data-final-top="340" data-duration="0.5" data-fade-start="20" data-delay="0.3"><a href="zonas-arqueolgicas-de-palenque-">Con los misterios Mayas</a> </div>
+			</div>
+			<div id="allinone_bannerRotator_photoText3" class="allinone_bannerRotator_texts">
+		    	<div class="allinone_bannerRotator_text_line textElement21_classic" data-initial-left="0" data-initial-top="307" data-final-left="0" data-final-top="307" data-duration="0.5" data-fade-start="20" data-delay="0"><a href="ciudades-coloniales">Avent&uacute;rate</div>
+		    	<div class="allinone_bannerRotator_text_line textElement22_classic" data-initial-left="0" data-initial-top="340" data-final-left="0" data-final-top="340" data-duration="0.5" data-fade-start="20" data-delay="0.3"> <a href="ciudades-coloniales">En las ciudades coloniales</a>   </div>
+			</div> 
+			/> -->
+    	</div>
+    </div>
+    
+    
+    
+    <div class="s2" id="s2">
+    	<div id="allinone_bannerRotator_sidebar2" style="display:none;">
+	    	
+	    	
+	    	<img src="media/portada/promo/GASTRONOMIA.jpg" alt="" data-text-id="#allinone_bannerRotator_photoText203" /> 
+	    	<img src="media/portada/promo/Banner3.jpg" alt="" data-text-id="#allinone_bannerRotator_photoText71" /> 
+	     
+	    	<img src="media/portada/promo/Slide_web-01.jpg" alt="" data-text-id="#allinone_bannerRotator_photoText200" />
+	    	<img src="media/portada/conoce/conoce-01.jpg" alt="" data-text-id="#allinone_bannerRotator_photoText4" /> 
+	    	<img src="media/portada/conoce/conoce-02.jpg" alt="" data-text-id="#allinone_bannerRotator_photoText5" /> 
+	    	<img src="media/portada/conoce/conoce-03.jpg" alt="" data-text-id="#allinone_bannerRotator_photoText6" /> 
+	    	
+	    	
+	    
+			<div id="allinone_bannerRotator_photoText203" class="allinone_bannerRotator_texts">
+		    	<div class="allinone_bannerRotator_text_line textElement214_classic" data-initial-left="0" data-initial-top="307" data-final-left="0" data-final-top="307" data-duration="0.5" data-fade-start="20" data-delay="0"><a href="https://play.google.com/store/apps/details?id=com.gobchis.didtec.chiapasconsabor&hl=es" target="_blank">APP</a></div>
+		    	<div class="allinone_bannerRotator_text_line textElement224_classic" data-initial-left="0" data-initial-top="340" data-final-left="0" data-final-top="340" data-duration="0.5" data-fade-start="20" data-delay="0.3"><a href="https://play.google.com/store/apps/details?id=com.gobchis.didtec.chiapasconsabor&hl=es" target="_blank">SABOR A CHIAPAS</a></div>
+			</div>
+			
+			
+	    	<div id="allinone_bannerRotator_photoText71" class="allinone_bannerRotator_texts">
+		    	<div class="allinone_bannerRotator_text_line textElement214_classic" data-initial-left="0" data-initial-top="307" data-final-left="0" data-final-top="307" data-duration="0.5" data-fade-start="20" data-delay="0"><a href="http://www.turismochiapas.gob.mx/sectur/descargables/libro/Recetario.pdf" target="_blank">Libro Chiapas</a></div>
+		    	<div class="allinone_bannerRotator_text_line textElement224_classic" data-initial-left="0" data-initial-top="340" data-final-left="0" data-final-top="340" data-duration="0.5" data-fade-start="20" data-delay="0.3"><a href="http://www.turismochiapas.gob.mx/sectur/descargables/libro/Recetario.pdf" target="_blank">Recetario</a></div>
+			</div>
+			
+			
+			
+	    		
+	    	<div id="allinone_bannerRotator_photoText200" class="allinone_bannerRotator_texts">
+		    	<div class="allinone_bannerRotator_text_line textElement211_classic" data-initial-left="0"  data-initial-top="307" data-final-left="0" data-final-top="307" data-duration="0.5" data-fade-start="20" data-delay="0"><a href="descargables">Conoce</a></div>
+		    	<div class="allinone_bannerRotator_text_line textElement222_classic" data-initial-left="10" data-initial-top="340" data-final-left="0" data-final-top="340" data-duration="0.5" data-fade-start="20" data-delay="0.3"><a href="descargables">Nuestro Material Promocional </a></div>
+			</div>
+			
+			
+	    	
+	    	<div id="allinone_bannerRotator_photoText4" class="allinone_bannerRotator_texts">
+		    	<div class="allinone_bannerRotator_text_line textElement211_classic" data-initial-left="0"  data-initial-top="307" data-final-left="0" data-final-top="307" data-duration="0.5" data-fade-start="20" data-delay="0"><a href="museo-de-la-medicina-maya">Conoce</a></div>
+		    	<div class="allinone_bannerRotator_text_line textElement222_classic" data-initial-left="10" data-initial-top="340" data-final-left="0" data-final-top="340" data-duration="0.5" data-fade-start="20" data-delay="0.3"><a href="museo-de-la-medicina-maya">Las tradiciones y costumbres </a></div>
+			</div>
+		
+			<div id="allinone_bannerRotator_photoText5" class="allinone_bannerRotator_texts">
+		    	<div class="allinone_bannerRotator_text_line textElement211_classic" data-initial-left="0" data-initial-top="307" data-final-left="0" data-final-top="307" data-duration="0.5" data-fade-start="20" data-delay="0"><a href="cascadas-de-agua-azul">Conoce</div>
+		    	<div class="allinone_bannerRotator_text_line textElement222_classic" data-initial-left="0" data-initial-top="340" data-final-left="0" data-final-top="340" data-duration="0.5" data-fade-start="20" data-delay="0.3"><a href="cascadas-de-agua-azul"></a> Los rincones emblem&aacute;ticos</a></div>
+			</div> 
+			
+			<div id="allinone_bannerRotator_photoText6" class="allinone_bannerRotator_texts">
+		    	<div class="allinone_bannerRotator_text_line textElement211_classic" data-initial-left="0" data-initial-top="307" data-final-left="0" data-final-top="307" data-duration="0.5" data-fade-start="20" data-delay="0"><a href="san-cristbal-de-las-casas-">Conoce</div>
+		    	<div class="allinone_bannerRotator_text_line textElement222_classic" data-initial-left="0" data-initial-top="340" data-final-left="0" data-final-top="340" data-duration="0.5" data-fade-start="20" data-delay="0.3"><a href="san-cristbal-de-las-casas-">La cultura de los pueblos </a></div> 
+			</div> 
+    	  </div>
+
+    </div>
+    <div class="s3" id="s3">
+ 	      
+           <div id="allinone_bannerRotator_sidebar3" style="display:none;">
+           
+	    	<!-- 
+	    	 <img src="media/portada/promo/trabajo.jpg" alt="" data-text-id="#allinone_bannerRotator_photoText56" />
+	    	
+	    	<img src="media/portada/promo/BANNER_Chiapas.jpg" alt="" data-text-id="#allinone_bannerRotator_photoText59" /> 
+		   <img src="media/portada/promo/banner_chiapasdenaranja.jpg" alt="" data-text-id="#allinone_bannerRotator_photoText64" />  	
+		    	
+		    	
+		    	
+	    	-->
+	    	 <img src="media/portada/promo/opinion.jpg" alt="" data-text-id="#allinone_bannerRotator_photoText301" /> 
+	    	 <img src="media/portada/descubre/descubre-01.jpg" alt="" data-text-id="#allinone_bannerRotator_photoText7" /> 
+	    	<img src="media/portada/descubre/descubre-02.jpg" alt="" data-text-id="#allinone_bannerRotator_photoText8" /> 
+	    	<img src="media/portada/descubre/descubre-03.jpg" alt="" data-text-id="#allinone_bannerRotator_photoText9" /> 
+	    	<img src="media/portada/diviertete/diviertete-02.jpg" alt="" data-text-id="#allinone_bannerRotator_photoText11" />
+	    	
+	    	
+	    	
+	    <!-- 	    	
+	    <div id="allinone_bannerRotator_photoText56" class="allinone_bannerRotator_texts">
+		    	<div class="allinone_bannerRotator_text_line textElement214_classic" data-initial-left="0" data-initial-top="307" data-final-left="0" data-final-top="307" data-duration="0.5" data-fade-start="20" data-delay="0"><a href="http://capacidadesyempleo.stps.gob.mx" target="_blank">Cambia el significado</a></div>
+		    	<div class="allinone_bannerRotator_text_line textElement224_classic" data-initial-left="0" data-initial-top="340" data-final-left="0" data-final-top="340" data-duration="0.5" data-fade-start="20" data-delay="0.3"><a href="http://capacidadesyempleo.stps.gob.mx" target="_blank">de la discapacidad</a></div>
+			</div>
+	    
+	    
+	    
+	    <div id="allinone_bannerRotator_photoText59" class="allinone_bannerRotator_texts">
+		    	<div class="allinone_bannerRotator_text_line textElement213_classic" data-initial-left="0"  data-initial-top="307" data-final-left="0" data-final-top="307" data-duration="0.9" data-fade-start="20" data-delay="0"><a href="https://www.facebook.com/hospedateenchiapas" target="_blank">VEN A CHIAPAS</a></div>
+		    	<div class="allinone_bannerRotator_text_line textElement223_classic" data-initial-left="0" data-initial-top="340" data-final-left="0" data-final-top="340" data-duration="0.9" data-fade-start="20" data-delay="0.3"><a href="https://www.facebook.com/hospedateenchiapas" target="_blank">Este verano obt&eacute;n descuentos en hospedaje</a></div>
+			</div>
+			
+			<div id="allinone_bannerRotator_photoText64" class="allinone_bannerRotator_texts">
+		    	<div class="allinone_bannerRotator_text_line textElement213_classic" data-initial-left="0"  data-initial-top="307" data-final-left="0" data-final-top="307" data-duration="0.5" data-fade-start="20" data-delay="0"><a href="http://www.un.org/es/events/endviolenceday/" target="_blank">D&iacute;a Internacional de la</a></div>
+		    	<div class="allinone_bannerRotator_text_line textElement223_classic" data-initial-left="0" data-initial-top="340" data-final-left="0" data-final-top="340" data-duration="0.5" data-fade-start="20" data-delay="0.3"><a href="http://www.un.org/es/events/endviolenceday/" target="_blank">Eliminaci&oacute;n de la Violencia Contra la Mujer</a></div>
+			</div>
+	    	 -->
+	    	 
+
+	    <div id="allinone_bannerRotator_photoText301" class="allinone_bannerRotator_texts">
+		    	<div class="allinone_bannerRotator_text_line textElement213_classic" data-initial-left="0"  data-initial-top="307" data-final-left="0" data-final-top="307" data-duration="0.5" data-fade-start="20" data-delay="0"><a href="http://www.sectur.gob.mx/quejas-e-inconformidades/#prettyPhoto">Quejas e </a></div>
+		    	<div class="allinone_bannerRotator_text_line textElement223_classic" data-initial-left="0" data-initial-top="340" data-final-left="0" data-final-top="340" data-duration="0.5" data-fade-start="20" data-delay="0.3"><a href="http://www.sectur.gob.mx/quejas-e-inconformidades/#prettyPhoto">Inconformidades</a></div>
+			</div>
+		
+
+	    	<div id="allinone_bannerRotator_photoText7" class="allinone_bannerRotator_texts">
+		    	<div class="allinone_bannerRotator_text_line textElement213_classic" data-initial-left="0"  data-initial-top="307" data-final-left="0" data-final-top="307" data-duration="0.5" data-fade-start="20" data-delay="0"><a href="laguna-miramar">Descubre</a></div>
+		    	<div class="allinone_bannerRotator_text_line textElement223_classic" data-initial-left="0" data-initial-top="340" data-final-left="0" data-final-top="340" data-duration="0.5" data-fade-start="20" data-delay="0.3"><a href="laguna-miramar">Las maravillas de Chiapas</a></div>
+			</div>
+		
+			<div id="allinone_bannerRotator_photoText8" class="allinone_bannerRotator_texts">
+		    	<div class="allinone_bannerRotator_text_line textElement213_classic" data-initial-left="0"  data-initial-top="307" data-final-left="0" data-final-top="307" data-duration="0.5" data-fade-start="20" data-delay="0"><a href="gastronomia">Descubre</div>
+		    	<div class="allinone_bannerRotator_text_line textElement223_classic" data-initial-left="0" data-initial-top="340" data-final-left="0" data-final-top="340" data-duration="0.5" data-fade-start="20" data-delay="0.3"><a href="gastronomia">Los platillos tradicionales</a></div>
+			</div> 
+			
+			<div id="allinone_bannerRotator_photoText9" class="allinone_bannerRotator_texts">
+		    	<div class="allinone_bannerRotator_text_line textElement213_classic" data-initial-left="0" data-initial-top="307" data-final-left="0" data-final-top="307" data-duration="0.5" data-fade-start="20" data-delay="0"><a href="marca-chiapas">Descubre</div>
+		    	<div class="allinone_bannerRotator_text_line textElement223_classic" data-initial-left="0" data-initial-top="340" data-final-left="0" data-final-top="340" data-duration="0.5" data-fade-start="20" data-delay="0.3"><a href="marca-chiapas">Las piezas artesanales</a></div>
+			</div> 
+			
+			        <div id="allinone_bannerRotator_photoText11" class="allinone_bannerRotator_texts">
+		    	<div class="allinone_bannerRotator_text_line textElement213_classic" data-initial-left="0" data-initial-top="307" data-final-left="0" data-final-top="307" data-duration="0.5" data-fade-start="20" data-delay="0"><a href="comprando-">Vive</div>
+		    	<div class="allinone_bannerRotator_text_line textElement223_classic" data-initial-left="0" data-initial-top="340" data-final-left="0" data-final-top="340" data-duration="0.5" data-fade-start="20" data-delay="0.3"><a href="comprando-">Visitando los lugares t&iacute;picos</a></div>
+			</div>  
+			
+    	  </div>
+        
+
+			
+    </div>
+    <div class="s4" id="s4">
+    	
+    	
+    		 <div id="allinone_bannerRotator_sidebar4" style="display:none;">
+	       <img src="media/portada/promo/sancris.jpg" alt="" data-text-id="#allinone_bannerRotator_photoText402" />
+	    		 <img src="media/portada/promo/VIAJEMOS.jpg" alt="" data-text-id="#allinone_bannerRotator_photoText401" />
+	        
+	        
+	        <div id="allinone_bannerRotator_photoText402" class="allinone_bannerRotator_texts">
+		    	<div class="allinone_bannerRotator_text_line textElement214_classic" data-initial-left="0" data-initial-top="307" data-final-left="0" data-final-top="307" data-duration="0.5" data-fade-start="20" data-delay="0"><a href="http://www.sancristobal.gob.mx/ciudad/" target="_blank">Conoce</a></div>
+		    	<div class="allinone_bannerRotator_text_line textElement224_classic" data-initial-left="0" data-initial-top="340" data-final-left="0" data-final-top="340" data-duration="0.5" data-fade-start="20" data-delay="0.3"><a href="http://www.sancristobal.gob.mx/ciudad/" target="_blank">San Crist&oacute;bal de Las Casas</a></div>
+			</div>
+			
+	        
+	        <div id="allinone_bannerRotator_photoText401" class="allinone_bannerRotator_texts">
+		    	<div class="allinone_bannerRotator_text_line textElement214_classic" data-initial-left="0" data-initial-top="307" data-final-left="0" data-final-top="307" data-duration="0.5" data-fade-start="20" data-delay="0"><a href="http://issuu.com/secturchiapas/docs/viajemos_todos_por_chiapas_825467223814ef" target="_blank">Viajemos Todos</a></div>
+		    	<div class="allinone_bannerRotator_text_line textElement224_classic" data-initial-left="0" data-initial-top="340" data-final-left="0" data-final-top="340" data-duration="0.5" data-fade-start="20" data-delay="0.3"><a href="http://issuu.com/secturchiapas/docs/viajemos_todos_por_chiapas_825467223814ef" target="_blank">Por Chiapas</a></div>
+			</div>
+	        
+	          <!-- 
+	        
+	        <div id="allinone_bannerRotator_photoText61" class="allinone_bannerRotator_texts">
+		    	<div class="allinone_bannerRotator_text_line textElement214_classic" data-initial-left="0" data-initial-top="307" data-final-left="0" data-final-top="307" data-duration="0.5" data-fade-start="20" data-delay="0"><a href="http://issuu.com/secturchiapas/docs/directorio_turismo_para_todos/1" target="_blank">Turismo</a></div>
+		    	<div class="allinone_bannerRotator_text_line textElement224_classic" data-initial-left="0" data-initial-top="340" data-final-left="0" data-final-top="340" data-duration="0.5" data-fade-start="20" data-delay="0.3"><a href="http://issuu.com/secturchiapas/docs/directorio_turismo_para_todos/1" target="_blank">Para todos</a></div>
+			</div>
+			
+			
+			
+			
+	        <img src="media/portada/promo/banner_turismoparatodos.jpg" alt="" data-text-id="#allinone_bannerRotator_photoText61" />
+	    	<img src="media/portada/pueblosmagicos/chiapa.jpg" alt="" data-text-id="#allinone_bannerRotator_photoText16" /> 
+	    	<img src="media/portada/pueblosmagicos/comitan.jpg" alt="" data-text-id="#allinone_bannerRotator_photoText17" /> 
+	    	<img src="media/portada/pueblosmagicos/sancristobal.jpg" alt="" data-text-id="#allinone_bannerRotator_photoText18" /> 
+	    	
+			
+			
+			
+ 			
+			
+			
+			
+
+			
+			<div id="allinone_bannerRotator_photoText16" class="allinone_bannerRotator_texts">
+		    	<div class="allinone_bannerRotator_text_line textElement214_classic" data-initial-left="0" data-initial-top="307" data-final-left="0" data-final-top="307" data-duration="0.5" data-fade-start="20" data-delay="0"><a href="chiapa-de-corzo">Descubre</a></div>
+		    	<div class="allinone_bannerRotator_text_line textElement224_classic" data-initial-left="0" data-initial-top="340" data-final-left="0" data-final-top="340" data-duration="0.5" data-fade-start="20" data-delay="0.3"><a href="chiapa-de-corzo">Los Pueblos M&aacute;gicos</a></div>
+			</div>
+
+			<div id="allinone_bannerRotator_photoText17" class="allinone_bannerRotator_texts">
+		    	<div class="allinone_bannerRotator_text_line textElement214_classic" data-initial-left="0" data-initial-top="307" data-final-left="0" data-final-top="307" data-duration="0.5" data-fade-start="20" data-delay="0"><a href="comitn-de-domnguez">Descubre</a></div>
+		    	<div class="allinone_bannerRotator_text_line textElement224_classic" data-initial-left="0" data-initial-top="340" data-final-left="0" data-final-top="340" data-duration="0.5" data-fade-start="20" data-delay="0.3"><a href="comitn-de-domnguez">Los Pueblos M&aacute;gicos</a></div>
+			</div>
+
+			<div id="allinone_bannerRotator_photoText18" class="allinone_bannerRotator_texts">
+		    	<div class="allinone_bannerRotator_text_line textElement214_classic" data-initial-left="0" data-initial-top="307" data-final-left="0" data-final-top="307" data-duration="0.5" data-fade-start="20" data-delay="0"><a href="san-cristbal-de-las-casas-">Descubre</a></div>
+		    	<div class="allinone_bannerRotator_text_line textElement224_classic" data-initial-left="0" data-initial-top="340" data-final-left="0" data-final-top="340" data-duration="0.5" data-fade-start="20" data-delay="0.3"><a href="san-cristbal-de-las-casas-">Los Pueblos M&aacute;gicos</a></div>
+			</div>
+
+
+			 -->	
+					
+    	  </div>
+        
+    </div>
+
+</div>
+<div id="servicios-index">
+   <div class="si-1"> 
+	    
+	    <a href="http://www.ayudaachiapas.com/" target="_blank"> <img src="media/portada/promo/ayudaachiapas.jpg" /> </a> 
+    </div>
+     
+	    
+	    <!-- 
+	    <a href="http://informe.chiapas.gob.mx" target="_blank"> <img src="media/portada/promo/4_informe.jpg" /> </a> 
+	    
+	    <a href="https://issuu.com/secturchiapas/docs/destino_espiritual" target="_blank"> <img src="media/portada/promo/banner_semana_santa_2016" alt="" /> </a/>
+    </div>
+    
+   <div class="si-1"> 
+	    <a href="http://www.turismochiapas.gob.mx/PapaEnCHPS" target="_blank"> <img src="media/portada/promo/banner_appchiapasionate.jpg" alt="" /> </a/>
+    </div>
+  <div class="si-3"> 
+		<h2><a href="" target="_new"></a></h2>
+		<h3><a href="" target="_new"></a></h3>
+		<h4><a href="" target="_new"></a></h4>
+    </div>  --->
+    <div class="separacion-ser-2"></div>
+    <div class="si-2">
+        <ul>
+            <li><a id="in-vi" href="informacion-de-viaje">Info de Viaje </a> </li>
+            <li><a id="co-ll" href="como-llegar"> C&oacute;mo llegar</a> </li>
+            <li><a id="op-tu" href="http://www.turismochiapas.gob.mx/prestadores/tour.html" target="_blank">Operadores Tur&iacute;sticos</a> </li>
+            <li><a id="go-ma" href="mapa-turistico">Mapa Tur&iacute;stico </a> </li>
+        </ul>
+    </div>  
+</div>
+
+<div id="recursos-index">
+	<div class="video"> 
+		
+		<a href="chiapas-videos"><img src="img/portada/banner-video.jpg" alt="Videos" class="video1" /> </a> 
+	</div>
+	<div class="recursos"> 
+		<div class="r1"> 
+			<h2> <a href="chiapas-360"> Recorrido Virtual </a></h2>
+			<h3> <a href="chiapas-360">360&deg;</a></h3>
+		</div>
+		<div class="r2">
+      
+			<div class="blocks">
+					<div class="block">
+						<a class="product" href="caminando" onclick="_gaq.push(['_trackEvent', 'home', 'Featured Product Click', 'SHOW-X2']);">
+	                       <div class="over">
+		                      <h4>Andador Tur&iacute;stico Santo Domingo &#45; El Carmen </h4>
+	                       </div>
+                            <div class="image" style="background-image:url(img/portada2/slide_02.jpg);"></div>
+                            <div class="blueOverlay"></div>
+                        </a>
+                    
+				    </div>
+            </div>
+        
+		</div>
+		
+		<div class="r3">
+				<div class="blocks">
+					<div class="block">
+						<a class="product" href="bailando" onclick="_gaq.push(['_trackEvent', 'home', 'Featured Product Click', 'SHOW-X2']);">
+	                       <div class="over">
+		                      <h4>Parque Jard&iacute;n de la Marimba</h4>
+	                       </div>
+                            <div class="image" style="background-image:url(img/portada2/slide_00.jpg);"></div>
+                            <div class="blueOverlay"></div>
+                        </a>
+                    
+				    </div>
+                </div>
+
+		</div>
+		
+		<div class="r4"> 
+			<img src="img/portada2/logo-tesoros-chiapas.png" alt="Tesoros de Chiapas" /> 
+			<h2><a href="tesoros-de-chiapas"> Tesoros de Chiapas </a></h2>
+			<h3><a href="tesoros-de-chiapas"> Club de Calidad </a></h3>
+		</div>
+	</div>
+</div>
+  
+<div id="parati">
+    <div class="pt-1"> 
+        <h2> Servicios para ti ! </h2>
+        <h3>Para que tu estancia en nuestro estado sea placentera, consulta la amplia gama de servicios que te ofrecemos con la mayor calidad y calidez. <!-- &#161; No esperes m&aacute;s para iniciar una aventura que s&oacute;lo en Chiapas podr&aacute;s vivir ! --> </h3>
+        <h4><a href="http://issuu.com/secturchiapas/docs/travel_planner_2014/1" target="_blank">Ver ...</a> </h4>
+    </div>
+    <div class="separacion-par"></div>
+    <div class="pt-2">
+        <ul>
+        	<li><a href="http://www.turismochiapas.gob.mx/prestadores/tour.html" target="_blank"> <img src="img/servicios/f-transportacion.jpg" alt="Transportaci&oacute;n" /> </a><div><a href="http://www.turismochiapas.gob.mx/prestadores/tour.html" target="_blank">Transportaci&oacute;n</a> </div> </li>
+            <li><a href="http://issuu.com/secturchiapas/docs/directorio_centros_turisticos/1" target="_blank"> <img src="img/servicios/ecoturismo.jpg" alt="Centros TurÃ­sticos" /> </a><div><a href="http://issuu.com/secturchiapas/docs/directorio_centros_turisticos/1" target="_blank">Centros Tur&iacute;sticos</a> </div> </li>
+            <li><a href="http://issuu.com/secturchiapas/docs/directorio_turismo_de_reuniones/1" target="_blank"> <img src="img/servicios/turismoreuniones.jpg" alt="Turismo de Reuniones" /> </a><div><a href="http://issuu.com/secturchiapas/docs/directorio_turismo_de_reuniones/1" target="_blank">Reuniones</a> </div> </li>
+            <li><a href="http://issuu.com/secturchiapas/docs/directorio_turismo_romance/1" target="_blank"> <img src="img/servicios/turismoromance.jpg" alt="Turismo de Romance" /> </a> <div><a href="http://issuu.com/secturchiapas/docs/directorio_turismo_romance/1" target="_blank">Romance</a> </div> </li> 
+        </ul>
+    </div>
+</div>
+
+</div></div>
+</div>
+</div>
+		<div id='footer'>
+            <div id="f-cont">
+                <div class="fc-1"><a href="http://inicio.inai.org.mx/SitePages/ifai.aspx"><img src="http://www.turismochiapas.gob.mx/sectur/img/footer/inai.png" alt="INAI" /></a>
+                <a href="http://www.plataformadetransparencia.org.mx/"><img src="http://www.turismochiapas.gob.mx/sectur/img/footer/plataforma.png" alt="PNT" /> </a>
+                <h2></h2></div>
+                <div class="fc-2"> <a href="http://www.plataformadetransparencia.org.mx/web/guest/sac"><img src="http://www.turismochiapas.gob.mx/sectur/img/footer/plataforma2.png" alt="SIPOT" /></a> </div>
+                
+                <div class="fc-4"> 
+                    
+                    
+                    <a href="http://www.plataformadetransparencia.org.mx/web/guest/sistema-portales"><img src="http://www.turismochiapas.gob.mx/sectur/img/footer/plataforma3.png" alt="SISAI" /></a> 
+                    <a href="http://iaipchiapas.org.mx/"><img src="http://www.turismochiapas.gob.mx/sectur/img/footer/iaip.png" alt="IAIP" /></a> 
+                    <!--
+                    Secretar&iacute;a de Turismo <br /> del Estado de Chiapas </h2> <h3> Torre Chiapas, Nivel 5 <br /> Tuxtla Guti&eacute;rrez, Chiapas. 
+                    <a href="http://www.visitmexico.com/"><img src="http://www.turismochiapas.gob.mx/sectur/img/footer/icon-visitmexico.png" alt="Visita Mexico" /></a>
+                    <a href="http://www.mundomaya.travel/"> <img src="http://www.turismochiapas.gob.mx/sectur/img/footer/icon-mundo-maya.png" alt="Mundo maya" /></a> 
+                    -->
+                    
+                </div>
+                <div class="fc-3"> 
+                    <ul>
+              		    <li><a href="http://www.turismochiapas.gob.mx/sectur/mapa-del-sitio">Mapa del Sitio</a> </li>
+                  		<li><a href="http://www.turismochiapas.gob.mx/sectur/webmaster">Webmaster</a> </li>
+                        <li><a href="http://www.turismochiapas.gob.mx/sectur/contacto">Contacto</a> </li>
+                        <li><a href="http://www.turismochiapas.gob.mx/sectur/descargables">Descargables</a> </li>
+                   	</ul>
+                </div>
+                <!--
+                <div class="fc-5"> 
+                    <h2> S&iacute;guenos </h2>
+                    <ul>
+                        <li><a href="http://www.facebook.com/SecturChiapas"><img src="http://www.turismochiapas.gob.mx/sectur/img/footer/icon-facebook.png" alt="Facebook" /></a> </li>
+                        <li><a href="https://twitter.com/Sectur_Chiapas"><img src="http://www.turismochiapas.gob.mx/sectur/img/footer/icon-twitter.png" alt="Twitter" /></a> </li>
+                        <li><a href="http://www.youtube.com/channel/UChEXDaS9eC2M-T39suwQdaQ/videos"><img src="http://www.turismochiapas.gob.mx/sectur/img/footer/icon-youtube.png" alt="Enlace externo" /></a> </li>
+                        <li><a href="#"><img src="http://www.turismochiapas.gob.mx/sectur/img/footer/icon-rss.png" alt="rss" /></a> </li>
+                    </ul>
+                    <h3><a href="#">Descargables</a>&nbsp; <img src="http://www.turismochiapas.gob.mx/sectur/img/footer/icon-footer-jump.png" alt="Enlace externo" />  </h3>
+                </div>
+                -->
+                <div class="fc-6"> <h3><a href="../institucional" target="_blank">:::::: Visita el Portal Institucional :::::: <img src="http://www.turismochiapas.gob.mx/sectur/img/footer/icon-footer-jump.png" alt="Enlace externo" /> </a> </h3> </div>
+            </div>
+		</div>
+
+	
+		</div>			<script type='text/javascript'> window.___gcfg = {lang: 'es-419'};  (function() { var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true; po.src = 'https://apis.google.com/js/plusone.js';  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s); })();</script>
+		</body></html>
